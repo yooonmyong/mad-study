@@ -29,7 +29,7 @@
 
 | 👩‍💻 [정다은](https://github.com/jeongdaeun98) | 👩‍💻 [김윤명](https://github.com/yoonmyung)  |
 |:-----------------------------------------------:|:---------------------------------------------:|
-|  ![](https://i.imgur.com/G2JU8YL.png =200x200)  | ![](https://i.imgur.com/efczYmh.png =200x200) |
+|  <img src="https://i.imgur.com/G2JU8YL.png" width="200" />  | <img src="https://i.imgur.com/efczYmh.png" width="200" /> |
 |                  목표는 취뽀🌟                  |                                               |
 
 
