@@ -55,8 +55,17 @@
 | 표현 예시 정리(1218, 1221) |         ⭕          | [1218(사진)](https://user-images.githubusercontent.com/40621689/102898182-7866d180-44ac-11eb-9a50-cb6f4d650f9f.PNG), [1221(사진)](https://user-images.githubusercontent.com/40621689/102898181-77ce3b00-44ac-11eb-9978-70aade320f21.PNG) |
 | 백준 문제 풀기(1297, 2480) |         ⭕          |                                      [1297(pdf)](https://github.com/yoonmyung/mad-study/files/5730312/_1297_TV_.pdf), [2480(pdf)](https://github.com/yoonmyung/mad-study/files/5730313/_2480__.pdf)                                      |
 
+### 2020.12.23
 
+#### 정다은
 
+| 할 일 | 완료 여부 (⭕ / ❌) | 링크 / 사진 |
+|:-----:| ------------------- |:-----------:|
+|미친 토익 2020 강의 RC4 |                     |             |
+|단어 외우기 - 3일차 |                     |             |
+|이전 강의 복습 |                     |             |
+|강의 숙제 완료 |                     |             |
+|백준 문제 풀기(14889, 14890) |                     |             |
 ---
 
 ### 누적 벌금:money_with_wings: 
