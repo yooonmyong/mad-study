@@ -50,10 +50,10 @@
 #### 김윤명
 |            할 일             | 완료 여부 (⭕ / ❌) | 링크 / 사진 |
 |:----------------------------:| ------------------- |:-----------:|
-|   1223 주제스피킹 자료 준비  |                     |              |
-|         쉐도잉 1시간         |                     |              |
-|  표현 예시 정리(1218, 1221)  |                     |              |
-|  백준 문제 풀기(1297, 2480)  |                     |              |
+|   1223 주제스피킹 자료 준비  |        ⭕           |[일부 캡쳐](https://user-images.githubusercontent.com/40621689/102898171-76047780-44ac-11eb-8633-4fb57f599c21.PNG)|
+|         쉐도잉 1시간         |        ⭕           |[타이머 캡쳐](https://user-images.githubusercontent.com/40621689/102898178-7735a480-44ac-11eb-91ee-6dcee97aa960.png)|
+|  표현 예시 정리(1218, 1221)  |        ⭕           |[1218(사진)](https://user-images.githubusercontent.com/40621689/102898182-7866d180-44ac-11eb-9a50-cb6f4d650f9f.PNG), [1221(사진)](https://user-images.githubusercontent.com/40621689/102898181-77ce3b00-44ac-11eb-9978-70aade320f21.PNG)|
+|  백준 문제 풀기(1297, 2480)  |        ⭕           |[1297(pdf)](https://github.com/yoonmyung/mad-study/files/5730312/_1297_TV_.pdf), [2480(pdf)](https://github.com/yoonmyung/mad-study/files/5730313/_2480__.pdf)|
 
 
 
