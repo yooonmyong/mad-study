@@ -68,12 +68,12 @@
 | 백준 문제 풀기(14889, 14890) |         ⭕          | [14889](https://github.com/jeongdaeun98/algorithm/blob/master/2020/20122301.cpp) [14890](https://daewoony.tistory.com/75) |
 
 #### 김윤명
-
-| 할 일                     | 완료 여부 (⭕ / ❌)| 링크 / 사진 |
+잠 패턴 지키기
+| 할 일                     | 완료 여부 (⭕ / ❌)| 링크 / 사진  |
 |:-------------------------:|:-------------------:|:-----------:|
-|쉐도잉 30분                |                     |             |
-|영어 당일 복습             |                     |             |
-|백준 문제 풀기(2525, 2530) |                     |             |
+|쉐도잉 30분                |         ⭕          |   [캡처](https://user-images.githubusercontent.com/40621689/103037338-f4494280-45ae-11eb-946c-4cd34cc989e0.png)  |
+|영어 당일 복습             |         ⭕          |   [캡처](https://user-images.githubusercontent.com/40621689/103036819-ef37c380-45ad-11eb-9da4-5787a4be79a8.PNG)  |
+|백준 문제 풀기(2525, 2530) |         ⭕          |   [PDF](https://github.com/yoonmyung/mad-study/files/5737127/201223.pdf)   |
 
 
 ### 2020.12.24
