@@ -50,11 +50,11 @@
 #### 김윤명
 | 할 일                          | 완료 여부 (⭕ / ❌)| 링크 / 사진   |
 |:------------------------------:|:-------------------:|:-------------:|
-|쉐도잉 30분||[]()|
-|칼소폭 30분||[]()|
-|책 읽기 및 내용 정리||[]()|
-|영어 당일 복습||[]()|
-|백준 문제 풀기(20001)||[]()|
+|쉐도잉 30분|⭕|[캡처](https://user-images.githubusercontent.com/40621689/103468472-9087fc00-4d9c-11eb-9e7e-6d10f5d8d648.png)|
+|칼소폭 30분|⭕|[캡처](https://user-images.githubusercontent.com/40621689/103468471-8fef6580-4d9c-11eb-9919-ce5560909bd0.jpg)|
+|책 읽기 및 내용 정리|⭕|[캡처](https://user-images.githubusercontent.com/40621689/103468469-8fef6580-4d9c-11eb-9906-d525ef73b9e4.PNG)|
+|영어 당일 복습|⭕|[캡처](https://user-images.githubusercontent.com/40621689/103468467-8ebe3880-4d9c-11eb-9cbe-ad024cb56469.PNG)|
+|백준 문제 풀기(20001)|⭕|[링크](https://github.com/yoonmyung/algorithm/blob/main/baekjoon/C%2B%2B/~2021.01/BOJ20001.cpp)|
 
 
 ---
