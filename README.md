@@ -82,9 +82,9 @@
 #### 김윤명
 | 할 일                          | 완료 여부 (⭕ / ❌)| 링크 / 사진   |
 |:------------------------------:|:-------------------:|:-------------:|
-|쉐도잉||[]()|
-|책 읽기 및 내용 정리||[]()|
-|백준 문제 풀기(17028)||[]()|
+|쉐도잉|⭕|[캡처](https://user-images.githubusercontent.com/40621689/103679209-e987a800-4fc7-11eb-883b-94a9188cd107.png)|
+|책 읽기 및 내용 정리|⭕|[캡처](https://user-images.githubusercontent.com/40621689/103679213-eb516b80-4fc7-11eb-972c-c7c34041fae1.PNG)|
+|백준 문제 풀기(17028)|⭕|[링크](https://github.com/yoonmyung/algorithm/blob/main/baekjoon/C%2B%2B/~2021.01/BOJ17028.cpp)|
 
 
 ---
