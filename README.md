@@ -153,10 +153,10 @@
 #### 김윤명
 | 할 일                          | 완료 여부 (⭕ / ❌)| 링크 / 사진   |
 |:------------------------------:|:-------------------:|:-------------:|
-|쉐도잉||[]()|
-|STL 2가지 컨테이너 용도 정리||[]()|
-|STL map vs set 정리||[]()|
-|백준 문제 풀기(1920, 15829)||[]()|
+|쉐도잉|⭕|[캡처](https://user-images.githubusercontent.com/40621689/104361385-b7d98880-5555-11eb-9f55-a784dfb16562.png)|
+|STL 2가지 컨테이너 용도 정리|⭕|[링크](https://www.notion.so/kym1229/C-STL-18e2591161bf4203a928dbd5e97c22f6)|
+|STL map vs set 정리|⭕|[링크](https://www.notion.so/kym1229/C-STL-18e2591161bf4203a928dbd5e97c22f6)|
+|백준 문제 풀기(1920, 15829)|⭕|[링크](https://github.com/yoonmyung/algorithm/commit/8ce3cb180e6aee3e2e22eeb1f3626aa998c1ded9)|
 
 
 ---
