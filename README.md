@@ -249,9 +249,9 @@
 #### 김윤명
 | 할 일                          | 완료 여부 (⭕ / ❌)| 링크 / 사진   |
 |:------------------------------:|:-------------------:|:-------------:|
-|이것이 C#이다 15-16장 공부||[]()|
-|백준 문제 풀이(12935, 10817)||[]()|
-|쉐도잉||[]()|
+|이것이 C#이다 15-16장 공부||[링크](https://github.com/yoonmyung/algorithm/commit/42a61ae72cf32802d6c862f98c492e597ced9e3a#diff-be28d7fe8f2f3570e6c1c089e6353494c2ba4b752b137512a72b01e43d3c88c7)|
+|문제 풀이(프로그래머스 12935, 백준 10817)||[프로그래머스](https://github.com/yoonmyung/algorithm/blob/main/programmers/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.cs), [백준](https://github.com/yoonmyung/algorithm/blob/main/baekjoon/C%23/BOJ10817.cs)|
+|쉐도잉||[캡처](https://user-images.githubusercontent.com/40621689/105612801-9ef88f00-5e01-11eb-82f9-d442cec6c411.png)|
 
 
 ---
