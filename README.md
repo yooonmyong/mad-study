@@ -56,10 +56,12 @@
 #### 김윤명
 | 할 일                          | 완료 여부 (⭕ / ❌)| 링크 / 사진   |
 |:------------------------------:|:-------------------:|:-------------:|
-|알고리즘(백준 10809, 2675, 1157)||[]()|
-|특정 레파지토리 커밋 1회||[]()|
-|서류 준비||[]()|
-|발표 준비||[]()|
+|알고리즘(백준 10809, 2675, 1157)|⭕|[10809](https://github.com/yoonmyung/algorithm/blob/main/baekjoon/C%2B%2B/~2021.02/BOJ10809.cpp)
+[2675](https://github.com/yoonmyung/algorithm/blob/main/baekjoon/C%2B%2B/~2021.02/BOJ2675.cpp)
+[1157](https://github.com/yoonmyung/algorithm/blob/main/baekjoon/C%2B%2B/~2021.02/BOJ1157.cpp)|
+|특정 레파지토리 커밋 1회|❌|[]()|
+|서류 준비|⭕|[캡처](https://user-images.githubusercontent.com/40621689/107399576-366d1a00-6b44-11eb-8c48-78dc28199cf0.PNG)|
+|발표 준비|⭕|위 캡처에 포함|
 
 
 ---
@@ -67,4 +69,5 @@
 
 ### 누적 벌금:money_with_wings: 
 
-#### 현재 13500원
+#### 현재 14000원
+#### 21.02.09 +500원
