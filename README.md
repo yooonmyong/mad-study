@@ -85,10 +85,10 @@
 #### 김윤명
 | 할 일                          | 완료 여부 (⭕ / ❌)| 링크 / 사진   |
 |:------------------------------:|:-------------------:|:-------------:|
-|알고리즘(백준 1316)||[1316]()|
-|레파지토리 커밋 1회||[]()|
-|쉐도잉 2시간||[]()|
-|운동 30분||[]()|
+|알고리즘(백준 1316)|⭕|[1316](https://github.com/yoonmyung/algorithm/blob/main/baekjoon/C%2B%2B/~2021.02/BOJ1316.cpp)|
+|레파지토리 커밋 1회|⭕|[캡처](https://user-images.githubusercontent.com/40621689/108606686-c80b4000-73fe-11eb-988d-4a8dbe63617e.png)|
+|쉐도잉 2시간|⭕|[캡처](https://user-images.githubusercontent.com/40621689/108606642-7bc00000-73fe-11eb-8bce-5dd174cba7ae.png)|
+|운동 30분|⭕|[캡처](https://user-images.githubusercontent.com/40621689/108606657-8e3a3980-73fe-11eb-9fcf-8c1276b37ff3.png)|
 
 
 ---
