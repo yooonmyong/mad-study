@@ -50,7 +50,7 @@
 | 할 일                          | 완료 여부 (⭕ / ❌)| 링크 / 사진   |
 |:------------------------------:|:-------------------:|:-------------:|
 |java 공부 정리|❌|[인증]()|
-|책 읽기|⭕|[인증](https://user-images.githubusercontent.com/25525648/145909071-8a011105-fa9e-4eed-8c10-1b3acf5d181a.png)|
+|책 읽기|⭕|[인증](https://raw.githubusercontent.com/uneap/TIL/main/img/IMG_5243.jpg)|
 
 
 
